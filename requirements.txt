@@ -1,0 +1,13 @@
+
+---
+
+## 📦 `requirements.txt`
+
+```txt
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+streamlit
